@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "p6S3HWMuSJ2RZaJ0S+/YlZ4c32f7KE+2EwhM5Aj98qePZmvkynelXPYrBxxFz73P3XDjocznIbqrwMjFnwPFYA==",
+  "success": true,
+  "projectFilePath": "/Users/liamgabriel/Desktop/PROG6221_POE_PART2_ST10075970/PROG6221_POE_PART2_ST10075970/PROG6221_POE_PART2_ST10075970.csproj",
+  "expectedPackageFiles": [
+    "/Users/liamgabriel/.nuget/packages/nunit/4.1.0/nunit.4.1.0.nupkg.sha512",
+    "/Users/liamgabriel/.nuget/packages/nunit3testadapter/4.5.0/nunit3testadapter.4.5.0.nupkg.sha512",
+    "/Users/liamgabriel/.nuget/packages/xunit/2.8.1/xunit.2.8.1.nupkg.sha512",
+    "/Users/liamgabriel/.nuget/packages/xunit.abstractions/2.0.3/xunit.abstractions.2.0.3.nupkg.sha512",
+    "/Users/liamgabriel/.nuget/packages/xunit.analyzers/1.14.0/xunit.analyzers.1.14.0.nupkg.sha512",
+    "/Users/liamgabriel/.nuget/packages/xunit.assert/2.8.1/xunit.assert.2.8.1.nupkg.sha512",
+    "/Users/liamgabriel/.nuget/packages/xunit.core/2.8.1/xunit.core.2.8.1.nupkg.sha512",
+    "/Users/liamgabriel/.nuget/packages/xunit.extensibility.core/2.8.1/xunit.extensibility.core.2.8.1.nupkg.sha512",
+    "/Users/liamgabriel/.nuget/packages/xunit.extensibility.execution/2.8.1/xunit.extensibility.execution.2.8.1.nupkg.sha512",
+    "/Users/liamgabriel/.nuget/packages/xunit.runner.visualstudio/2.8.1/xunit.runner.visualstudio.2.8.1.nupkg.sha512"
+  ],
+  "logs": []
+}
